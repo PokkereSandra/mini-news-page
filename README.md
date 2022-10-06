@@ -9,6 +9,7 @@ without logging in,sort articles by date or most commented.
 
 ### To run program enter commands from here:
 - clone project from github
+- make sure your gd extension for php is enabled
 - composer install
 - npm install
 - npm run build
