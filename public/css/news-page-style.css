@@ -1,0 +1,53 @@
+.layout-page{
+    background: rgb(233,110,164);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(233,110,164,1) 100%);
+}
+.article-page{
+    padding-top: 40px;
+}
+
+.article-title-link:hover {
+    color: rgb(233,110,164);
+}
+
+.article-title-link{
+    color: #1a202c;
+    text-decoration: none;
+}
+.nav-link{
+    color:white;
+    text-decoration: none;
+}
+
+.article-text{
+    text-align: justify;
+}
+.article-attachment{
+    width: 300px;
+    height: auto;
+    padding: 15px 15px 15px 15px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    margin: 15px 15px 15px 15px;
+}
+.nickname
+{
+    text-decoration: underline;
+}
+
+.articles, .comments{
+    background-color: #e5e7ec;
+    margin: 0 0 50px 0;
+    border-radius: 10px;
+    padding:15px 10px 15px 10px;
+}
+
+.underline {
+    width: 100%;
+    border-bottom: 2px solid grey;
+    padding: 0 50px 0 50px;
+}
+
+p {
+    padding: 15px 15px 15px 15px;
+}
